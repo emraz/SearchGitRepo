@@ -23,10 +23,12 @@ This project used API for fetching repository list from GitHub.
 - SearchGitRepoTests: Unit Test
 
 Notes:
-1. As there is no design given, I have used by my own and try to follow the instructions given in requiremnts file(PDF)
-2. I tried to cover the basic rules of SwiftUI, Combine and MVVM here, still I think we can do some improvemnets.
+1. Here I tried to demonstrate very basic structure of MVVM + Combine + SwiftUI
+2. As there is no instructions regarding Unit Test, I used basic Unit test for View Model initialization and api call success
+3. I tried to cover the basic rules of SwiftUI, Combine and MVVM here, still I think we can do some improvemnets.
 
-I try to finish it by  following the instructions are given.
+I try to finish it by  following the instructions are given. Please check.
+
 Thank you so much :)
 
 ====== Happy Coding ======
